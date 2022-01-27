@@ -1,4 +1,3 @@
-from operator import le
 import numpy as np
 
 # set arrays to fun Gausse elimination on
